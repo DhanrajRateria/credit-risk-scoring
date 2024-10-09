@@ -1,1 +1,1 @@
-# credit-risk-scoring
+# Credit Risk Scoring using Logistic Regression
